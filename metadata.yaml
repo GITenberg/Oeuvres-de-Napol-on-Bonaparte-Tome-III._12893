@@ -1,5 +1,8 @@
 _repo: Oeuvres-de-Napol-on-Bonaparte-Tome-III._12893
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Napoleon I, Emperor of the French
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '35085'
     url: http://www.gutenberg.org/2009/agents/35085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12893#Oeuvres-de-Napol-on-Bonaparte-Tome-III.
 gutenberg_bookshelf:
 - FR Guerres
 - France
